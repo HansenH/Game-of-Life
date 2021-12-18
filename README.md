@@ -6,6 +6,8 @@ John Conway's Game of Life (python tkinter)
 pip install keyboard
 ```
 
+![image](https://github.com/HansenH/Game-of-Life/blob/main/Screenshot.png)  
+
 ## Instruction
 press space to start / pause
 
