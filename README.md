@@ -7,7 +7,7 @@ pip install keyboard
 ```
 
 ## Instruction
-press 'p' to start / pause
+press space to start / pause
 
 press 'r' when paused to randomly initialize the cells
 
